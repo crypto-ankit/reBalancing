@@ -1,0 +1,15 @@
+{
+  "name": "rebalancing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reBalancingNew.js",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
